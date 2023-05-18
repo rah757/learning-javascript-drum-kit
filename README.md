@@ -1,7 +1,7 @@
 # learning-javascript-drum-kit
 
 ## Project
-This is the [#JavaScript30](https://javascript30.com/) challenge created by Wes Bos. The starter files are available at [GitHub | wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) 
+This is the [#JavaScript30](https://javascript30.com/) challenge created by Wes Bos. The starter files are available at [GitHub | wesbos-JavaScript30](https://github.com/wesbos/JavaScript30) 
 
 ## Page link
 https://rah757.github.io/learning-javascript-drum-kit
